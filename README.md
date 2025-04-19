@@ -19,6 +19,7 @@ spin up your own instance of the honeypot and collect data
 ![image](https://github.com/user-attachments/assets/26cf2a1e-a1d4-4d27-b188-e9f6f40a561c)
 
 ![image](https://github.com/user-attachments/assets/db9d047c-ee3d-4223-9514-99f73e210a7d)
+![image](https://github.com/user-attachments/assets/cefd1e7b-0be7-4538-80c6-62c3110434d5)
 
 
 
